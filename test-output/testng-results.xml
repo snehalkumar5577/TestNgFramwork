@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80698" started-at="2017-04-30T17:42:29Z" finished-at="2017-04-30T17:43:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80698" started-at="2017-04-30T17:42:29Z" finished-at="2017-04-30T17:43:50Z">
+      <class name="p1.TestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:p1.TestCases@7cd62f43]" name="setup" is-config="true" duration-ms="31" started-at="2017-04-30T23:12:29Z" finished-at="2017-04-30T23:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="correctCredentials()[pri:0, instance:p1.TestCases@7cd62f43]" name="correctCredentials" duration-ms="49379" started-at="2017-04-30T23:12:29Z" finished-at="2017-04-30T23:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctCredentials -->
+        <test-method status="PASS" signature="wrongCredentials()[pri:0, instance:p1.TestCases@7cd62f43]" name="wrongCredentials" duration-ms="31283" started-at="2017-04-30T23:13:18Z" finished-at="2017-04-30T23:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongCredentials -->
+      </class> <!-- p1.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
